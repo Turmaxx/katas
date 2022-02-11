@@ -1,4 +1,4 @@
-# CODE KATAS
+# KATAS
 
 This is repo was meant to keep solutions for katas I have done in highschool found on [CodeWars](https://www.codewars.com).
 
