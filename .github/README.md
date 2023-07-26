@@ -1,4 +1,10 @@
 # KATAS
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/turmaxx/katas)
+![GitHub repo size](https://img.shields.io/github/repo-size/turmaxx/katas)
+![GitHub last commit](https://img.shields.io/github/last-commit/turmaxx/katas)
+![Codecov](https://codecov.io/gh/turmaxx/katas/branch/master/graph/badge.svg?token=0MNNDL5VSF)
+
+![Codewars](https://www.codewars.com/users/HiddenGrizzly/badges/large)
 
 This is repo was meant to keep solutions for katas I have done in highschool found on [CodeWars](https://www.codewars.com).
 
