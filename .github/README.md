@@ -1,7 +1,7 @@
 # KATAS
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/turmaxx/katas)
-![GitHub repo size](https://img.shields.io/github/repo-size/turmaxx/katas)
-![GitHub last commit](https://img.shields.io/github/last-commit/turmaxx/katas)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Turmaxx/katas)
+![GitHub repo size](https://img.shields.io/github/repo-size/Turmaxx/katas)
+![GitHub last commit](https://img.shields.io/github/last-commit/Turmaxx/katas)
 
 
 [![Codewars](https://www.codewars.com/users/HiddenGrizzly/badges/large)](https://codewars.com/users/HiddenGrizzly)
